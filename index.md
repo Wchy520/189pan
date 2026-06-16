@@ -2,12 +2,12 @@
 
 [![签到状态](https://github.com/Wchy520/189pan/actions/workflows/main.yml/badge.svg)](https://github.com/Wchy520/189pan/actions/workflows/main.yml) [![项目主页](https://img.shields.io/badge/GitHub-项目主页-blue?logo=github)](https://github.com/Wchy520/189pan)
 
-**最后更新:** 2026-06-16 02:09:45 CST
+**最后更新:** 2026-06-16 15:03:27 CST
 
 ## 快速导航
 
 - 🔄 [查看Action运行记录](https://github.com/Wchy520/189pan/actions)
-- 📋 [查看最新运行](https://github.com/Wchy520/189pan/actions/runs/27566442023)
+- 📋 [查看最新运行](https://github.com/Wchy520/189pan/actions/runs/27600255220)
 - 🏠 [返回项目主页](https://github.com/Wchy520/189pan)
 - ⚙️ [手动触发签到](https://github.com/Wchy520/189pan/actions/workflows/main.yml)
 
@@ -16,18 +16,18 @@
 # 天翼云盘自动签到抽奖程序
 
 ## 执行概览
-- **启动时间**: 2026-06-16 02:09:46
+- **启动时间**: 2026-06-16 15:03:27
 - **账户数量**: 1 个
 
 ## 账户1
-登录过程出错: HTTPSConnectionPool(host='open.e.189.cn', port=443): Max retries exceeded with url: /api/logbox/oauth2/wap/autoLogin.do?appId=cloud&version=v1.1&clientType=20100&format=redirect&paras=CBA8DAD59444986FB84AB74CD5AF83D2F7EA165D74A3625D814A0902D27E35BEF6203F66FB67AF0BA2CEC50E897D2DC84FBBF179C2E1A49D6381E431F7E34CA3217C2DF94F740600195DDA3AF2A63A8EE6E4CF93FBC9F5110613CF1ECD536C7A1A3307CB704D3EF8FAB5BFF1EEE5D87325A46616928AE6129A095DC9E61EFFB0A43CB93C80507A62C015A55930854A0AADD835F7C40A3FB6FFD122E7F8EA729C620D555B3E066D38437C1C8780C31E328339EA19CC7F277EE2A3CED11AD881F1AA3A02F96E74F48EFB6F4299E2E9B3A437F28D65C12D67CFAFD8F8D5295D63F7966C84FCDC27D00EA50C9469063D53EBFF06EC2112C738BA4EE11CD3ADB9809ED8D413C7B54EF2983F817A815CADAF03890E068E8226852398E32BF3B47B1B0CB351A454C3269353A6A4D05BD07050F976A89F55968025C37E0ECBD47A6835B3117A51128C39741EF096FAE5D72BFB1A23C4A4B3BDFE71A0690CC7113E9408D6EC08BA68AD985A4D11DAA61AA8200C790BBA933AC064B6C0164F7EBF393F20620697E8E400B6C984F4DC7772B01109D99830BE21B9C2DF81D974F8C47DAE6D7DDC75518BD4AED7989A9A13A3D3F0F5EEDFB00FCBB21AD43F11B4DB846AADDE32798484B3EB51101F8B3C39FD951A6A4EC245C91B98DD8C151C0EC31DD65A686F94C55F03FF22F0D8C22C503243889F977797DD795C99B7F9903FFA309A9B755DCCBC76A6BA13469F3A73EBF1&sign=0CCE918A6256F7D474FD50E49F07DC5F6BC7736B (Caused by NewConnectionError("HTTPSConnection(host='open.e.189.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+登录过程出错: HTTPSConnectionPool(host='m.cloud.189.cn', port=443): Max retries exceeded with url: /udb/udb_login.jsp?pageId=1&pageKey=default&clientType=wap&redirectURL=https://m.cloud.189.cn/zhuanti/2021/shakeLottery/index.html (Caused by NewConnectionError("HTTPSConnection(host='m.cloud.189.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
 ### 执行结果
 - **登录状态**: 登录失败
 - **签到结果**: 
 
 ---
 ## 执行统计
-- **结束时间**: 2026-06-16 02:14:15
-- **运行时长**: 269.58 秒
+- **结束时间**: 2026-06-16 15:07:57
+- **运行时长**: 270.00 秒
 
 ✅ **所有账户处理完成！**
