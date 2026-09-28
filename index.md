@@ -2,12 +2,12 @@
 
 [![签到状态](https://github.com/Wchy520/189pan/actions/workflows/main.yml/badge.svg)](https://github.com/Wchy520/189pan/actions/workflows/main.yml) [![项目主页](https://img.shields.io/badge/GitHub-项目主页-blue?logo=github)](https://github.com/Wchy520/189pan)
 
-**最后更新:** 2026-09-28 15:29:13 CST
+**最后更新:** 2026-09-29 04:12:03 CST
 
 ## 快速导航
 
 - 🔄 [查看Action运行记录](https://github.com/Wchy520/189pan/actions)
-- 📋 [查看最新运行](https://github.com/Wchy520/189pan/actions/runs/36391881356)
+- 📋 [查看最新运行](https://github.com/Wchy520/189pan/actions/runs/36477477144)
 - 🏠 [返回项目主页](https://github.com/Wchy520/189pan)
 - ⚙️ [手动触发签到](https://github.com/Wchy520/189pan/actions/workflows/main.yml)
 
@@ -16,18 +16,18 @@
 # 天翼云盘自动签到抽奖程序
 
 ## 执行概览
-- **启动时间**: 2026-09-28 15:29:13
+- **启动时间**: 2026-09-29 04:12:03
 - **账户数量**: 1 个
 
 ## 账户1
-登录过程出错: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+没有找到登录链接
 ### 执行结果
 - **登录状态**: 登录失败
 - **签到结果**: 
 
 ---
 ## 执行统计
-- **结束时间**: 2026-09-28 15:34:06
-- **运行时长**: 292.70 秒
+- **结束时间**: 2026-09-29 04:12:06
+- **运行时长**: 3.08 秒
 
 ✅ **所有账户处理完成！**
